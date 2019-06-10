@@ -67,7 +67,13 @@ And then the application will run normally.
 <br>
 
 <h3>How it can be improved</h3>
-1- Converting this applciation to a windows service or API
-2- Adding scheduling so  snapshoots can be fully automated
+1- Converting this applciation to a windows service or API<br>
+2- Adding scheduling so  snapshoots can be fully automated<br>
 3- Adding log Files
+
+<h3>Need Help?</h3>
+Email: Support@h-educate.com
+Website Questions: https://h-educate.com/ask-question/ <br>
+Facebook Page: https://www.facebook.com/AdvancedITEducation/
+
 
