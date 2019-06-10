@@ -3,9 +3,9 @@ Simple c# application that allows you to manage your Digital Ocean Snapshots and
 
 Hey Friends!
 
-If you have used Digital Ocean Cloud Services, you then know that you can take snapshots of your machine as a backup.
-I created this small application that utlizez the Digital Ocean API in a small C# windowsforms app using curl under windows and simple
-process then I read the json results and showed them is a clear view in the form.
+If you have used Digital Ocean Cloud Services before, you then know that you can take snapshots of your machines as a backup.
+I created this small application that utilizes the Digital Ocean API in a small C# windows forms app using curl under windows and simple
+a process then I read the JSON results and showed them is a clear view in the form.
 
 <h3>The application allows you to:<h3>
 <ul>
@@ -19,7 +19,7 @@ process then I read the json results and showed them is a clear view in the form
 
 <h3>How to run?<h3>
 
-<p>You need to download the curl executable for windows and place it besire the applciation executable file.</p>
+<p>You need to download the curl executable for windows and place it beside the application executable file.</p>
 
 And then the application will run normally.
 <br>
@@ -67,12 +67,12 @@ And then the application will run normally.
 <br>
 
 <h3>How it can be improved</h3>
-1- Converting this applciation to a windows service or API<br>
-2- Adding scheduling so  snapshoots can be fully automated<br>
+1- Converting this application to a windows service or API<br>
+2- Adding scheduling so  snapshots can be fully automated<br>
 3- Adding log Files
 
 <h3>Need Help?</h3>
-Email: Support@h-educate.com
+Email: Support@h-educate.com <br>
 Website Questions: https://h-educate.com/ask-question/ <br>
 Facebook Page: https://www.facebook.com/AdvancedITEducation/
 
